@@ -11,21 +11,21 @@ This is the portfolio page of Laercio Lima, a data analyst with expertise in Pyt
 ### Technical Details
 This portfolio page uses the following technologies:
 
-SCSS 
-CSS 
-JavaScript 
-HTML 
+* SCSS 
+* CSS 
+* JavaScript 
+* HTML 
 
 
 ### Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Demo Images:
+	Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Icons:
+	Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-		html5up.net | @ajlkn
+Other:
+	jQuery (jquery.com)
+	Responsive Tools (github.com/ajlkn/responsive-tools)
+	html5up.net | @ajlkn
